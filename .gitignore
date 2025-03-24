@@ -1,4 +1,4 @@
-data/
-output/
+/mlcv2/WorkingSpace/Personal/baotg/OCR/source/modules/vietnamese-corrector/data/
+output/*
 output.csv
 *.png
